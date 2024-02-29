@@ -1,0 +1,1098 @@
+repo_name: Jeff-Bouchard/byob
+report_id: c61b7c2ea40169c5eacffcd07d2aa22a
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:53:50+00:00'
+requested_by: malwaredllc
+provider: github
+branch: master
+detected_tools_count: 71
+tools:
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/karma.conf.coffee
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/karma.conf.coffee
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/aci-tree/js/jquery.min.js
+  detection_source: web-gui/buildyourownbotnet/assets/js/aci-tree/js/jquery.min.js
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/Jeff-Bouchard/byob
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 3.1.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package-lock.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package-lock.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/daterangepicker/bower.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: SQLAlchemy
+  description: The Python SQL Toolkit and Object Relational Mapper
+  website_url: http://www.sqlalchemy.org/
+  version: 1.3.23
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/1839/q5uAkmy7.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/requirements.txt
+  detection_source: web-gui/requirements.txt
+  last_updated_by: malwaredllc
+  last_updated_on: 2021-03-20 01:24:51.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: Eclipse
+  description: IDE for Java EE Developers
+  website_url: https://www.eclipse.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/codemirror/theme/eclipse.css
+  detection_source: web-gui/buildyourownbotnet/assets/js/codemirror/theme/eclipse.css
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/.github/workflows/python-app.yml
+  detection_source: ".github/workflows/python-app.yml"
+  last_updated_by: Malwared
+  last_updated_on: 2021-02-25 00:05:05.000000000 Z
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.5
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 24.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package-lock.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 0.12.31
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: PhantomJS
+  description: Scriptable Headless WebKit
+  website_url: https://phantomjs.org/
+  version: 1.9.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/1832/phantomjs.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/codemirror/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/codemirror/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/requirements.txt
+  detection_source: web-gui/requirements.txt
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-14 14:22:51.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.1.17
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: cclauss
+  last_updated_on: 2018-09-02 11:43:14.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: OpenCV
+  description: Open Source Computer Vision Library
+  website_url: http://opencv.org/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/byob/requirements.txt
+  detection_source: byob/requirements.txt
+  last_updated_by: Daniel Vega-Myhre
+  last_updated_on: 2018-08-02 16:54:21.000000000 Z
+- name: Twilio
+  description: Bring voice and messaging to your web and mobile applications.
+  website_url: http://www.twilio.com
+  open_source: false
+  hosted_saas: true
+  category: Communications
+  sub_category: Voice and SMS
+  image_url: https://img.stackshare.io/service/130/VrwpNfjh_400x400.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/requirements_client.txt
+  detection_source: web-gui/buildyourownbotnet/requirements_client.txt
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-14 14:22:51.000000000 Z
+- name: Firefox
+  description: Mozilla's Web Browser
+  website_url: https://www.mozilla.org/en-US/firefox/
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Web Browser
+  image_url: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/daterangepicker/bower.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/daterangepicker/bower.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.18.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/byob/requirements.txt
+  detection_source: byob/requirements.txt
+  last_updated_by: Daniel Vega-Myhre
+  last_updated_on: 2018-08-02 16:54:21.000000000 Z
+- name: Prism
+  description: An extensible syntax highlighter, built with modern web standards
+  website_url: https://prismjs.com/
+  version: 1.23.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package-lock.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: PyInstaller
+  description: Python programs into stand-alone executables
+  website_url: http://www.pyinstaller.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7120/no-img-open-source.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/requirements_client.txt
+  detection_source: web-gui/buildyourownbotnet/requirements_client.txt
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-14 14:22:51.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob
+  detection_source: Repo Metadata
+- name: cssnano
+  description: A modular minifier, based on the PostCSS ecosystem. Created by @ben_eb.
+  website_url: http://cssnano.co/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6612/ehMiE-wz_normal.jpg
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: "@types/jquery"
+  description: TypeScript definitions for jQuery
+  package_url: https://www.npmjs.com/@types/jquery
+  version: 3.3.29
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16363/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package-lock.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: cssnano
+  description: A modular minifier, built on top of the PostCSS ecosystem
+  package_url: https://www.npmjs.com/cssnano
+  version: 4.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16102/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package-lock.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: gm
+  description: GraphicsMagick and ImageMagick for node.js
+  package_url: https://www.npmjs.com/gm
+  version: 1.23.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16804/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package-lock.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: grunt-banner
+  description: Adds a simple banner to files
+  package_url: https://www.npmjs.com/grunt-banner
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17430/default_f52a9ea80d1a46080182faf142d844b81ca11aa6.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: grunt-contrib-jshint
+  description: Validate files with JSHint
+  package_url: https://www.npmjs.com/grunt-contrib-jshint
+  version: 0.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: grunt-contrib-less
+  description: Compile LESS files to CSS
+  package_url: https://www.npmjs.com/grunt-contrib-less
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16581/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 0.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 0.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: grunt-exec
+  description: Grunt task for executing shell commands
+  package_url: https://www.npmjs.com/grunt-exec
+  version: 0.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16754/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: grunt-karma
+  description: Grunt plugin for karma test runner
+  package_url: https://www.npmjs.com/grunt-karma
+  version: 0.10.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16328/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+  vulnerabilities:
+  - name: Grunt-karma vulnerable to prototype pollution
+    cve_id: CVE-2022-37602
+    cve_url: https://github.com/advisories/GHSA-hcj4-xf6x-63wj
+    detected_date: Oct 20
+    severity: critical
+    first_patched: 
+- name: grunt-umd
+  description: Surrounds code with the universal module definition
+  package_url: https://www.npmjs.com/grunt-umd
+  version: 2.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17913/default_cc042fd7c0a9cf091d301af307c99c8b7b08b8bc.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: iconv-lite
+  description: Convert character encodings in pure javascript
+  package_url: https://www.npmjs.com/iconv-lite
+  version: 0.4.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16350/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package-lock.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: jsonlint
+  description: Validate JSON
+  package_url: https://www.npmjs.com/jsonlint
+  version: 1.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17358/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package-lock.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 0.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: karma-coffee-preprocessor
+  description: A Karma plugin. Compile coffee script on the fly
+  package_url: https://www.npmjs.com/karma-coffee-preprocessor
+  version: 0.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17364/default_2613a99266d0023b6108b16e4d6613c439a64039.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: karma-firefox-launcher
+  description: A Karma plugin. Launcher for Firefox
+  package_url: https://www.npmjs.com/karma-firefox-launcher
+  version: 0.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16026/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: karma-html2js-preprocessor
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-html2js-preprocessor
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17231/default_f32012d99e98300650172d76a20c554617f1031d.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 0.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: karma-phantomjs-launcher
+  description: A Karma plugin. Launcher for PhantomJS
+  package_url: https://www.npmjs.com/karma-phantomjs-launcher
+  version: 0.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15947/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: karma-requirejs
+  description: A Karma plugin. Adapter for RequireJS framework
+  package_url: https://www.npmjs.com/karma-requirejs
+  version: 0.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16817/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: karma-script-launcher
+  description: A Karma plugin. Launcher for shell scripts
+  package_url: https://www.npmjs.com/karma-script-launcher
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17382/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: load-grunt-tasks
+  description: Load multiple grunt tasks using globbing patterns
+  package_url: https://www.npmjs.com/load-grunt-tasks
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: node-static
+  description: Simple, compliant file streaming module for node
+  package_url: https://www.npmjs.com/node-static
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16814/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/codemirror/package.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/codemirror/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+  vulnerabilities:
+  - name: node-static and @nubosoftware/node-static vulnerable to Directory Traversal
+    cve_id: CVE-2023-26111
+    cve_url: https://github.com/advisories/GHSA-5g97-whc9-8g7j
+    detected_date: Mar 8
+    severity: high
+    first_patched: 
+  - name: Denial of Service in node-static
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8r4g-cg4m-x23c
+    detected_date: Sep 23
+    severity: moderate
+    first_patched: 
+- name: prismjs
+  description: Lightweight, robust, elegant syntax highlighting
+  package_url: https://www.npmjs.com/prismjs
+  version: 1.23.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16351/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package-lock.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+  vulnerabilities:
+  - name: Cross-site Scripting in Prism
+    cve_id: CVE-2022-23647
+    cve_url: https://github.com/advisories/GHSA-3949-f494-cm99
+    detected_date: Feb 26
+    severity: high
+    first_patched: 1.27.0
+  - name: Regular Expression Denial of Service (ReDoS) in Prism
+    cve_id: CVE-2021-32723
+    cve_url: https://github.com/advisories/GHSA-gj77-59wh-66hg
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.24.0
+  - name: prismjs Regular Expression Denial of Service vulnerability
+    cve_id: CVE-2021-3801
+    cve_url: https://github.com/advisories/GHSA-hqhp-5p83-hx96
+    detected_date: Sep 21
+    severity: moderate
+    first_patched: 1.25.0
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 3.6.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/jquery-terminal/package-lock.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/jquery-terminal/package.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: PyInstaller
+  description: PyInstaller bundles a Python application and all its dependencies into
+    a single package
+  package_url: https://pypi.org/project/PyInstaller
+  version: '3.6'
+  license: GPL-2.0-with-classpath-exception,CC-BY-NC-2.5
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20237/default_cb6acd0ec3f2884b905de7c1ca3a23418f37ebb3.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/byob/requirements.txt
+  detection_source: byob/requirements.txt
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-04-25 23:44:09.000000000 Z
+- name: Werkzeug
+  description: The comprehensive WSGI web application library
+  package_url: https://pypi.org/project/Werkzeug
+  version: 2.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19890/default_87fc2af3f2409064833512bb6fc5b04443a2e6aa.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/requirements.txt
+  detection_source: web-gui/requirements.txt
+  last_updated_by: malwaredllc
+  last_updated_on: 2022-03-30 20:14:25.000000000 Z
+  vulnerabilities:
+  - name: High resource usage when parsing multipart form data with many fields
+    cve_id: CVE-2023-25577
+    cve_url: https://github.com/advisories/GHSA-xg9f-g7g7-2323
+    detected_date: Feb 16
+    severity: high
+    first_patched: 2.2.3
+  - name: Incorrect parsing of nameless cookies leads to __Host- cookies bypass
+    cve_id: CVE-2023-23934
+    cve_url: https://github.com/advisories/GHSA-px8h-6qxv-m22q
+    detected_date: Feb 16
+    severity: low
+    first_patched: 2.2.3
+- name: colorama
+  description: Cross-platform colored terminal text
+  package_url: https://pypi.org/project/colorama
+  version: 0.4.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19845/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/byob/requirements.txt
+  detection_source: byob/requirements.txt
+  last_updated_by: panpansh
+  last_updated_on: 2020-02-16 23:02:25.000000000 Z
+- name: mss
+  description: An ultra fast cross-platform multiple screenshots module in pure python
+    using ctypes
+  package_url: https://pypi.org/project/mss
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/byob/requirements.txt
+  detection_source: byob/requirements.txt
+  last_updated_by: Daniel Vega-Myhre
+  last_updated_on: 2018-08-02 16:54:21.000000000 Z
+- name: opencv-python
+  description: Wrapper package for OpenCV python bindings
+  package_url: https://pypi.org/project/opencv-python
+  version: 3.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/byob/requirements.txt
+  detection_source: byob/requirements.txt
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-04-25 23:44:09.000000000 Z
+  vulnerabilities:
+  - name: NULL Pointer Dereference in OpenCV.
+    cve_id: CVE-2019-14493
+    cve_url: https://github.com/advisories/GHSA-3448-vrgh-85xr
+    detected_date: Oct 13
+    severity: high
+    first_patched: 4.1.1.26
+  - name: Out-of-bounds Read in OpenCV
+    cve_id: CVE-2019-14491
+    cve_url: https://github.com/advisories/GHSA-fm39-cw8h-3p63
+    detected_date: Oct 13
+    severity: high
+    first_patched: 3.4.7.28
+  - name: Out-of-bounds Read and Out-of-bounds Write in OpenCV
+    cve_id: CVE-2019-14492
+    cve_url: https://github.com/advisories/GHSA-fw99-f933-rgh8
+    detected_date: Oct 13
+    severity: high
+    first_patched: 3.4.7.28
+  - name: Out-of-bounds Write in OpenCV
+    cve_id: CVE-2019-9423
+    cve_url: https://github.com/advisories/GHSA-8849-5h85-98qw
+    detected_date: Oct 13
+    severity: high
+    first_patched: 
+  - name: Out-of-bounds Write in OpenCV
+    cve_id: CVE-2019-5063
+    cve_url: https://github.com/advisories/GHSA-m6vm-8g8v-xfjh
+    detected_date: Oct 13
+    severity: high
+    first_patched: 
+  - name: Out-of-bounds Write in OpenCV
+    cve_id: CVE-2019-5064
+    cve_url: https://github.com/advisories/GHSA-q799-q27x-vp7w
+    detected_date: Oct 13
+    severity: high
+    first_patched: 4.2.0.32
+  - name: Out-of-bounds Read in OpenCV
+    cve_id: CVE-2019-19624
+    cve_url: https://github.com/advisories/GHSA-jggw-2q6g-c3m6
+    detected_date: Oct 13
+    severity: moderate
+    first_patched: 4.1.0.25
+  - name: Out-of-bounds Read in OpenCV
+    cve_id: CVE-2019-16249
+    cve_url: https://github.com/advisories/GHSA-x3rm-644h-67m8
+    detected_date: Oct 13
+    severity: moderate
+    first_patched: 4.1.2.30
+  - name: Divide By Zero in OpenCV.
+    cve_id: CVE-2019-15939
+    cve_url: https://github.com/advisories/GHSA-hxfw-jm98-v4mq
+    detected_date: Oct 13
+    severity: moderate
+    first_patched: 4.1.1.26
+- name: pycrypto
+  description: Cryptographic modules for Python
+  package_url: https://pypi.org/project/pycrypto
+  version: 2.6.1
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19985/default_ccb381b493daf0d966e015380e1894fdbc637ad3.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/byob/requirements.txt
+  detection_source: byob/requirements.txt
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-05-09 15:53:23.000000000 Z
+  vulnerabilities:
+  - name: Buffer Overflow in pycrypto
+    cve_id: CVE-2013-7459
+    cve_url: https://github.com/advisories/GHSA-cq27-v7xp-c356
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 
+  - name: Pycrypto generates weak key parameters
+    cve_id: CVE-2018-6594
+    cve_url: https://github.com/advisories/GHSA-6528-wvf6-f6qg
+    detected_date: Aug 22
+    severity: high
+    first_patched: 
+- name: pycryptodome
+  description: Cryptographic library for Python
+  package_url: https://pypi.org/project/pycryptodome
+  version: 3.9.6
+  license: BSD-3-Clause,Unlicense,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19900/default_4f4fb10b6f169603a907dcb35a5a356d784e3bd3.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/byob/requirements.txt
+  detection_source: byob/requirements.txt
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-05-09 15:53:23.000000000 Z
+  vulnerabilities:
+  - name: PyCryptodome and pycryptodomex side-channel leakage for OAEP decryption
+    cve_id: CVE-2023-52323
+    cve_url: https://github.com/advisories/GHSA-j225-cvw7-qrx7
+    detected_date: Jan 6
+    severity: moderate
+    first_patched: 3.19.1
+- name: pycryptodomex
+  description: Cryptographic library for Python
+  package_url: https://pypi.org/project/pycryptodomex
+  version: 3.8.1
+  license: BSD-3-Clause,Unlicense,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20058/default_b08738f5cbfb89e72f22150df888a7e1df34c927.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/byob/requirements.txt
+  detection_source: byob/requirements.txt
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-05-09 15:53:23.000000000 Z
+  vulnerabilities:
+  - name: PyCryptodome and pycryptodomex side-channel leakage for OAEP decryption
+    cve_id: CVE-2023-52323
+    cve_url: https://github.com/advisories/GHSA-j225-cvw7-qrx7
+    detected_date: Jan 6
+    severity: moderate
+    first_patched: 3.19.1
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.22.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/byob/requirements.txt
+  detection_source: byob/requirements.txt
+  last_updated_by: panpansh
+  last_updated_on: 2020-02-16 23:02:25.000000000 Z
+  vulnerabilities:
+  - name: Unintended leak of Proxy-Authorization header in requests
+    cve_id: CVE-2023-32681
+    cve_url: https://github.com/advisories/GHSA-j8r2-6x86-q33q
+    detected_date: May 23
+    severity: moderate
+    first_patched: 2.31.0
+- name: angular
+  description: Bower package for AngularJS
+  package_url: http://bower.io/angular
+  version: 1.2.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/bower.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/bower.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: angular-mocks
+  description: Angular-mocks.js bower repo
+  package_url: http://bower.io/angular-mocks
+  version: 1.2.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/easy-pie-chart/bower.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/easy-pie-chart/bower.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: moment
+  description: Parse
+  package_url: http://bower.io/moment
+  version: 2.9.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/daterangepicker/bower.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/daterangepicker/bower.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: components/jquery
+  description: JQuery JavaScript Library
+  package_url: https://packagist.org/components/jquery
+  version: 1.7.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/select2/composer.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/select2/composer.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
+- name: robloach/component-installer
+  description: Allows installation of Components via Composer
+  package_url: https://packagist.org/robloach/component-installer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Jeff-Bouchard/byob/blob/master/web-gui/buildyourownbotnet/assets/js/select2/composer.json
+  detection_source: web-gui/buildyourownbotnet/assets/js/select2/composer.json
+  last_updated_by: malwaredllc
+  last_updated_on: 2020-06-13 16:36:40.000000000 Z
