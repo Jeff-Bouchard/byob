@@ -3,31 +3,31 @@
 ## Tech Stack
 Jeff-Bouchard/byob is built on the following main stack:
 
-- [Twilio](http://www.twilio.com) – Voice and SMS
-- [Coveralls](https://coveralls.io/) – Code Coverage
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- [RequireJS](http://requirejs.org/) – Front End Package Manager
-- [PHP](http://www.php.net/) – Languages
-- [Python](https://www.python.org) – Languages
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [CoffeeScript](http://coffeescript.org/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [OpenCV](http://opencv.org/) – Image Processing and Management
-- [Karma](http://karma-runner.github.io/) – Browser Testing
-- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- [PHP](http://www.php.net/) – Languages
+- [Python](https://www.python.org) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [Coveralls](https://coveralls.io/) – Code Coverage
 - [ESLint](http://eslint.org/) – Code Review
-- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
-- [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- [RequireJS](http://requirejs.org/) – Front End Package Manager
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [OpenCV](http://opencv.org/) – Image Processing and Management
+- [Twilio](http://www.twilio.com) – Voice and SMS
+- [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
+- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -37,31 +37,31 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 Jeff-Bouchard/byob is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
-- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1293/opencv-logo-64x64.png' alt='OpenCV'/> [OpenCV](http://opencv.org/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'/> [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
-- <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1293/opencv-logo-64x64.png' alt='OpenCV'/> [OpenCV](http://opencv.org/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
+- <img width='25' height='25' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'/> [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
+- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -72,7 +72,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Jeff-Bouchard/byob](https://github.com/Jeff-Bouchard/byob)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|71<br/>Tools used|02/04/24 <br/>Report generated|
+|71<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
